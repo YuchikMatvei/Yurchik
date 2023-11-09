@@ -1,1 +1,12 @@
-# Yurchik
+# Yurchik Лекция 4
+![file-0](https://github.com/YuchikMatvei/Yurchik/assets/149879459/f13bd272-0420-419c-9028-d518a82150f2)
+![file-1](https://github.com/YuchikMatvei/Yurchik/assets/149879459/9691aeea-f5ef-44aa-8d5b-5df72f2d3fc4)
+![file-2](https://github.com/YuchikMatvei/Yurchik/assets/149879459/8a5977b8-fc47-4e06-be67-3b3e0a5d450b)
+![file-3](https://github.com/YuchikMatvei/Yurchik/assets/149879459/8179554d-83e4-42ac-98a9-833535a2034e)
+![file-4](https://github.com/YuchikMatvei/Yurchik/assets/149879459/b1d0a415-b2ca-4146-9220-92940966a38c)
+![file-5](https://github.com/YuchikMatvei/Yurchik/assets/149879459/992e1af6-d4d0-4d61-83d1-839858f574ab)
+![file-6](https://github.com/YuchikMatvei/Yurchik/assets/149879459/23affbb2-597b-4678-8389-eabc011fac24)
+![file-7](https://github.com/YuchikMatvei/Yurchik/assets/149879459/ede5f340-496a-496a-923a-db17c21ff6cb)
+![file-8](https://github.com/YuchikMatvei/Yurchik/assets/149879459/49461cc9-09a9-4ccf-9950-6daf51d3b1e7)
+![file-9](https://github.com/YuchikMatvei/Yurchik/assets/149879459/0f6964ef-6083-4b1e-8343-cde726228342)
+![file-10](https://github.com/YuchikMatvei/Yurchik/assets/149879459/e95d9961-2789-44fd-b116-40264ba6e349)
